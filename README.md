@@ -1,7 +1,7 @@
 # Lua Script Analyzer
 
 [![Tests](https://github.com/Stupidoodle/lua-auto-approve/actions/workflows/tests.yml/badge.svg)](https://github.com/Stupidoodle/lua-auto-approve/actions/workflows/tests.yml)
-[![codecov](https://codecov.io/gh/Stupidoodle/lua-auto-approve/branch/main/graph/badge.svg)](https://codecov.io/gh/Stupidoodle/lua-auto-approve)
+[![codecov](https://codecov.io/gh/Stupidoodle/lua-auto-approve/branch/master/graph/badge.svg)](https://codecov.io/gh/Stupidoodle/lua-auto-approve)
 
 A FastAPI-based service that analyzes Lua scripts for potential security risks and obfuscation.
 
