@@ -18,7 +18,7 @@ A FastAPI-based service that analyzes Lua scripts for potential security risks a
 ```bash
 # Clone the repository
 git clone https://github.com/Stupidoodle/lua-auto-approve.git
-cd repo-name
+cd lua-auto-approve
 
 # Install dependencies
 pip install -r requirements.txt
